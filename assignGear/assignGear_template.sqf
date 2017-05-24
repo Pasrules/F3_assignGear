@@ -28,7 +28,7 @@
 //  hatg            - heavy AT gunner
 //  hatag           - heavy AT assistant
 //  statg           - static AT gunner (deployable)
-//  statag	        - static AT assistant (deployable)
+//  statag          - static AT assistant (deployable)
 //  mtrg            - mortar gunner (deployable)
 //  mtrag           - mortar assistant (deployable)
 //  msamg           - medium SAM gunner
@@ -51,9 +51,9 @@
 //  r               - rifleman
 //
 //  v_quad          - quadbike
-//  v_car	        - car/4x4
-//  v_tr	        - truck
-//  v_ifv	        - ifv
+//  v_car           - car/4x4
+//  v_tr            - truck
+//  v_ifv           - ifv
 //  v_tank          - tank
 //  v_helo_l        - helocopter light
 //  v_helo_m        - helocopter medium
