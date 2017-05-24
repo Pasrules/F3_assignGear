@@ -6,67 +6,67 @@
 // The blocks of code below identifies equipment for this faction
 //
 // Defined loadouts:
-//		co  			- commander
-//		dc 	    		- deputy commander / squad leader
-//      rop             - radio operator
-//      jtac            - JTAC
-//      cm              - combatmedic
-//      pm              - paramedic
-//		sm 			    - surgicalmedic
-//		ftl	    		- fire team leader
-//		ar 		    	- automatic rifleman
-//		aar			    - assistant automatic rifleman
-//		rat 			- rifleman (AT)
-//      gren            - grenadier
-//		dm	    		- designated marksman
-//		mmgg	    	- medium MG gunner
-//		mmgag	    	- medium MG assistant
-//		stmgg		    - static MG gunner (deployable)
-//		stmgag		    - static MG assistant (deployable)
-//		matg		    - medium AT gunner
-//		matag	    	- medium AT assistant
-//      hatg            - heavy AT gunner
-//      hatag           - heavy AT assistant
-//		statg	    	- static AT gunner (deployable)
-//		statag	    	- static AT assistant (deployable)
-//		mtrg	    	- mortar gunner (deployable)
-//		mtrag		    - mortar assistant (deployable)
-//		msamg		    - medium SAM gunner
-//		msamag		    - medium SAM assistant gunner
-//		stsamg		    - static SAM gunner (deployable)
-//		stsamag		    - static SAM assistant gunner (deployable)
-//		sn			    - sniper
-//		sp			    - spotter (for sniper)
-//		vc			    - vehicle commander
-//		vg		    	- vehicle gunner
-//		vd			    - vehicle driver (repair)
-//		pp			    - air vehicle pilot / co-pilot (repair)
-//		pcc		    	- air vehicle co-pilot (repair) / crew chief (repair)
-//		pc			    - air vehicle crew
-//		eng			    - engineer (demo)
-//		engm		    - engineer (mines)
-//		uav			    - UAV operator
-//		div    		    - divers
+//  co  		    - commander
+//  dc 	    	    - deputy commander / squad leader
+//  rop             - radio operator
+//  jtac            - JTAC
+//  cm              - combatmedic
+//  pm              - paramedic
+//  sm 			    - surgicalmedic
+//  ftl	    	    - fire team leader
+//  ar 		        - automatic rifleman
+//  aar			    - assistant automatic rifleman
+//  rat 		    - rifleman (AT)
+//  gren            - grenadier
+//  dm	    	    - designated marksman
+//  mmgg	        - medium MG gunner
+//  mmgag	        - medium MG assistant
+//  stmgg		    - static MG gunner (deployable)
+//  stmgag		    - static MG assistant (deployable)
+//  matg		    - medium AT gunner
+//  matag	        - medium AT assistant
+//  hatg            - heavy AT gunner
+//  hatag           - heavy AT assistant
+//  statg	        - static AT gunner (deployable)
+//  statag	        - static AT assistant (deployable)
+//  mtrg	        - mortar gunner (deployable)
+//  mtrag		    - mortar assistant (deployable)
+//  msamg		    - medium SAM gunner
+//  msamag		    - medium SAM assistant gunner
+//  stsamg		    - static SAM gunner (deployable)
+//  stsamag		    - static SAM assistant gunner (deployable)
+//  sn			    - sniper
+//  sp			    - spotter (for sniper)
+//  vc			    - vehicle commander
+//  vg		        - vehicle gunner
+//  vd			    - vehicle driver (repair)
+//  pp			    - air vehicle pilot / co-pilot (repair)
+//  pcc		        - air vehicle co-pilot (repair) / crew chief (repair)
+//  pc			    - air vehicle crew
+//  eng			    - engineer (demo)
+//  engm		    - engineer (mines)
+//  uav			    - UAV operator
+//  div    		    - divers
 //
-//      r               - rifleman
+//  r               - rifleman
 //
-//      v_quad          - quadbike
-//		v_car	    	- car/4x4
-//		v_tr	    	- truck
-//		v_ifv	    	- ifv
-//      v_tank          - tank
-//      v_helo_l        - helocopter light
-//      v_helo_m        - helocopter medium
-//      v_helo_h        - helocopter heavy
-//      v_helo_a        - helocopter attack
-//      v_jet           - fixed wing
+//  v_quad          - quadbike
+//  v_car	        - car/4x4
+//  v_tr	        - truck
+//  v_ifv	        - ifv
+//  v_tank          - tank
+//  v_helo_l        - helocopter light
+//  v_helo_m        - helocopter medium
+//  v_helo_h        - helocopter heavy
+//  v_helo_a        - helocopter attack
+//  v_jet           - fixed wing
 //
-//		crate_small 	- small ammocrate
-//		crate_med	    - medium ammocrate
-//		crate_large 	- large ammocrate
-//		crate_mortar    - mortar bags
-//      crate_mortarmag - mortar ammocrate
-//		crate_medical	- medical ammocrate
+//  crate_small     - small ammocrate
+//  crate_medium    - medium ammocrate
+//  crate_large     - large ammocrate
+//  crate_mortar    - mortar bags
+//  crate_mortarmag - mortar ammocrate
+//  crate_medical   - medical ammocrate
 //
 // ====================================================================================
 

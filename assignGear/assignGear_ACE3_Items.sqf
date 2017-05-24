@@ -4,8 +4,8 @@
 
 // ACE Hearing
 if (ace_hearing_EnableCombatDeafness) then {
-	// Deprecated method, uncomment and remove the second line if you want _units to manually insert earplugs
-	//_unit addItem "ACE_EarPlugs";
+    // Deprecated method, uncomment and remove the second line if you want _units to manually insert earplugs
+    //_unit addItem "ACE_EarPlugs";
     _unit setVariable ["ACE_hasEarPlugsIn", true, true];
 };
 
@@ -16,7 +16,7 @@ if (_isMan) then {
 // ACE Maptools & CableTies
 if (_typeOfUnit in ["co", "dc", "jtac", "rop", "sm", "pm", "mmgag", "stmgag", "matag", "hatag", "statag", "mtrag", "mtrg", "msamag", "stsamag", "sp", "sn", "vc", "pp", "uav"]) then {
     _unit addItem "ACE_Maptools";
-	_unit addItem "ACE_Flashlight_XL50";
+    _unit addItem "ACE_Flashlight_XL50";
 };
 
 if (_typeOfUnit in ["aar", "mmgag"]) then {
