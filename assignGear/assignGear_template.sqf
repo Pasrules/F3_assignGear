@@ -6,47 +6,47 @@
 // The blocks of code below identifies equipment for this faction
 //
 // Defined loadouts:
-//  co  		    - commander
-//  dc 	    	    - deputy commander / squad leader
+//  co              - commander
+//  dc              - deputy commander / squad leader
 //  rop             - radio operator
 //  jtac            - JTAC
 //  cm              - combatmedic
 //  pm              - paramedic
-//  sm 			    - surgicalmedic
+//  sm              - surgicalmedic
 //  ftl	    	    - fire team leader
-//  ar 		        - automatic rifleman
-//  aar			    - assistant automatic rifleman
-//  rat 		    - rifleman (AT)
+//  ar              - automatic rifleman
+//  aar             - assistant automatic rifleman
+//  rat             - rifleman (AT)
 //  gren            - grenadier
 //  dm	    	    - designated marksman
-//  mmgg	        - medium MG gunner
-//  mmgag	        - medium MG assistant
-//  stmgg		    - static MG gunner (deployable)
-//  stmgag		    - static MG assistant (deployable)
-//  matg		    - medium AT gunner
-//  matag	        - medium AT assistant
+//  mmgg            - medium MG gunner
+//  mmgag           - medium MG assistant
+//  stmgg           - static MG gunner (deployable)
+//  stmgag          - static MG assistant (deployable)
+//  matg            - medium AT gunner
+//  matag           - medium AT assistant
 //  hatg            - heavy AT gunner
 //  hatag           - heavy AT assistant
-//  statg	        - static AT gunner (deployable)
+//  statg           - static AT gunner (deployable)
 //  statag	        - static AT assistant (deployable)
-//  mtrg	        - mortar gunner (deployable)
-//  mtrag		    - mortar assistant (deployable)
-//  msamg		    - medium SAM gunner
-//  msamag		    - medium SAM assistant gunner
-//  stsamg		    - static SAM gunner (deployable)
-//  stsamag		    - static SAM assistant gunner (deployable)
-//  sn			    - sniper
-//  sp			    - spotter (for sniper)
-//  vc			    - vehicle commander
-//  vg		        - vehicle gunner
-//  vd			    - vehicle driver (repair)
-//  pp			    - air vehicle pilot / co-pilot (repair)
-//  pcc		        - air vehicle co-pilot (repair) / crew chief (repair)
-//  pc			    - air vehicle crew
-//  eng			    - engineer (demo)
-//  engm		    - engineer (mines)
-//  uav			    - UAV operator
-//  div    		    - divers
+//  mtrg            - mortar gunner (deployable)
+//  mtrag           - mortar assistant (deployable)
+//  msamg           - medium SAM gunner
+//  msamag          - medium SAM assistant gunner
+//  stsamg          - static SAM gunner (deployable)
+//  stsamag         - static SAM assistant gunner (deployable)
+//  sn              - sniper
+//  sp              - spotter (for sniper)
+//  vc              - vehicle commander
+//  vg              - vehicle gunner
+//  vd              - vehicle driver (repair)
+//  pp              - air vehicle pilot / co-pilot (repair)
+//  pcc             - air vehicle co-pilot (repair) / crew chief (repair)
+//  pc              - air vehicle crew
+//  eng             - engineer (demo)
+//  engm            - engineer (mines)
+//  uav             - UAV operator
+//  div             - divers
 //
 //  r               - rifleman
 //
