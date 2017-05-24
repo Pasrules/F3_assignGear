@@ -108,7 +108,7 @@ switch (_typeofUnit) do
         _unit addItemCargoGlobal ["ACE_morphine",4];
         _unit addItemCargoGlobal ["ACE_epinephrine",2];
     };
-    case "crate_med":
+    case "crate_medium":
     {
         _unit addItemCargoGlobal ["ACE_fieldDressing",60];
         _unit addItemCargoGlobal ["ACE_morphine",12];
