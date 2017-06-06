@@ -15,4 +15,9 @@
 params["_typeofUnit","_unit"];
 _typeofUnit = toLower _typeofUnit;
 
+// DECIDE IF THE SCRIPT SHOULD RUN
+// Depending on locality the script decides if it should run
+
+if !(local _unit) exitWith {};
+
 #include "assignGear_template.sqf";
