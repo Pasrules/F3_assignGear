@@ -337,7 +337,7 @@ if (ace_medical_level == 2) then;
 }
 else;
 {
-#include "assignGear_ACE3_medicalBasic.sqf";    // Add ACE medical
+    #include "assignGear_ACE3_medicalBasic.sqf";    // Add ACE medical
 }
 // Incldue the loadouts for units:
 #include "assignGear_units.sqf"
