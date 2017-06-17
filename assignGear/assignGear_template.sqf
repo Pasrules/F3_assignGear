@@ -331,12 +331,10 @@ if (_isMan) then {
 
 // Include ACE equipment
 #include "assignGear_ACE3_Items.sqf";           // Add ACE items
-if (ace_medical_level == 2) then;
-{
+if (ace_medical_level == 2) then {
     #include "assignGear_ACE3_medicalAdv.sqf";    // Add ACE medical
 }
-else;
-{
+else {
     #include "assignGear_ACE3_medicalBasic.sqf";    // Add ACE medical
 }
 // Incldue the loadouts for units:
