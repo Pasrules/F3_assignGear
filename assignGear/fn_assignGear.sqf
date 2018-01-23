@@ -20,4 +20,8 @@ _typeofUnit = toLower _typeofUnit;
 
 if !(local _unit) exitWith {};
 
+_unit setVariable ["f_var_assignGear_done",false];
+
 #include "assignGear_template.sqf";
+
+_unit setVariable ["f_var_assignGear_done",true];

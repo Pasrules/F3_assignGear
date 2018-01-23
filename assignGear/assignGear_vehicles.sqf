@@ -131,6 +131,7 @@ switch (_typeOfUnit) do
         _unit addMagazineCargoGlobal [_IR, 4];
         _unit addMagazineCargoGlobal [_democharge, 2];
         _unit addBackPackCargoGlobal [_bag, 1];
+        _unit addBackpackCargoGlobal ["B_Parachute",2];
         _unit addItemCargoGlobal ["Toolkit",1];
     };
 	

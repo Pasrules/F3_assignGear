@@ -14,7 +14,7 @@ if (_isMan) then {
 };
 
 // ACE Maptools & CableTies
-if (_typeOfUnit in ["co", "dc", "jtac", "rop", "sm", "pm", "mmgag", "stmgag", "matag", "hatag", "statag", "mtrag", "mtrg", "msamag", "stsamag", "sp", "sn", "vc", "pp", "uav"]) then {
+if (_typeOfUnit in ["co", "dc", "jtac", "rop", "sm", "pm", "mmgag", "stmgag", "matag", "hatag", "statag", "mtrag", "mtrg", "msamag", "stsamag", "sp", "sn", "vc", "pp", "jp", "uav"]) then {
     _unit addItem "ACE_Maptools";
     _unit addItem "ACE_Flashlight_XL50";
 };

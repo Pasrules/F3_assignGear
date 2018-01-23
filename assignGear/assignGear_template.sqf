@@ -43,6 +43,7 @@
 //  pp              - air vehicle pilot / co-pilot (repair)
 //  pcc             - air vehicle co-pilot (repair) / crew chief (repair)
 //  pc              - air vehicle crew
+//  jp              - jet pilot
 //  eng             - engineer (demo)
 //  engm            - engineer (mines)
 //  uav             - UAV operator
@@ -246,6 +247,7 @@ _diver = ["div"];
 _pilot = ["pp","pcc","pc"];
 _crew = ["vc","vg","vd"];
 _ghillie = ["sn","sp"];
+_jetPilot = ["jp"];
 
 // Basic clothing
 // The outfit-piece is randomly selected from the array for each unit
@@ -267,6 +269,12 @@ _pilotUniform = ["U_B_HeliPilotCoveralls"];
 _pilotHelmet = ["H_PilotHelmetHeli_B"];
 _pilotRig = ["V_TacVest_blk"];
 _pilotGlasses = [];
+
+// Jet Pilot
+_jetPilotUniform = ["U_B_PilotCoveralls"];
+_jetPilotHelmet = ["H_PilotHelmetFighter_B"];
+_jetPilotRig = [];
+_jetPilotGlasses = [];
 
 // Crewman
 _crewUniform = ["U_B_CombatUniform_mcam_vest"];

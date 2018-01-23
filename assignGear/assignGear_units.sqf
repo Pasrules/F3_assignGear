@@ -517,6 +517,15 @@ switch (_typeofUnit) do
         _unit addmagazines [_smokegrenadeblue, 3];
         _unit addmagazines [_smgmag, 4];
     };
+// Jet Pilot Loadout:
+    case "jp":
+    {
+        _unit setUnitTrait ["engineer",true]; // Can repair
+        _unit addmagazines [_pistolmag, 1];
+        _unit addweapon _pistol;
+        
+        _unit addmagazines [_smokegrenadeblue, 3];
+    };
 // Engineer (Demo) Loadout:
     case "eng":
     {
